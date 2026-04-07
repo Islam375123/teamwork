@@ -1,2 +1,11 @@
 const box = document.getElementById("box");
 box.innerHTML = "Hello World";
+box.style.width = "200px";
+box.style.height = "200px";
+box.style.backgroundColor = "red";
+box.style.display   = "flex";
+box.style.justifyContent = "center";
+box.style.alignItems = "center";
+box.style.color = "white";
+box.style.fontSize = "20px";
+box.style.borderRadius = "10px";
